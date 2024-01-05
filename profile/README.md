@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+📧 info@rerrorctf.com
+ 
+⏱️  https://ctftime.org/team/278496
+
+🐦  https://twitter.com/rerrorctf
+
 <!--
 
 **Here are some ideas to get you started:**
