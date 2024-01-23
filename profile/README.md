@@ -6,6 +6,8 @@
 
 🐦  https://twitter.com/rerrorctf
 
+![flag](../flag.jpg)
+
 ## We are recruiting new members!
 
 Are you a new CTF player? Checkout our https://github.com/rerrorctf/mini-ctf-public tasks and let us know how you get on!
